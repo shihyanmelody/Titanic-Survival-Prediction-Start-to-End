@@ -1,3 +1,3 @@
 # Titanic-Survival-Prediction-Start-to-End
 
-
+RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean on 15th April, 1912. In this accident, more than 1500 out of the estimated total 2224 passengers and crew died, making it one of the most severe peacetime maritime disasters in modern history. This story was also filmed by director Steven Spielberg in to the movie Titanic, which was considered as one of the best movie in the 20th centery. As one of the major reasons of a such loss of life was the lack of the lifeboats, the survival chance was not determined randomly, but mostly the opportunity to acquire a spot on the lifeboats, which is influenced by several parameters. In this study, we estimate how do parameters such as sex, age, social class influence the survival chance.
